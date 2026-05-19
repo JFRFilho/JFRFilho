@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou João Ramos
+#  Olá, eu sou o João Ramos
 
 <img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=35&center=true&vCenter=true&width=1000&lines=Python+Developer;Flask+Developer;Automation+Engineer;React+Developer" />
 
