@@ -51,12 +51,11 @@ joao = {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=JFRFilho&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JFRFilho&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=JFRFilho&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="49%"/>
 
-<br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JFRFilho&layout=compact&theme=tokyonight&hide_border=true" width="49%"/>
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=JFRFilho&theme=tokyonight&hide_border=true)
+<img src="https://streak-stats.demolab.com/?user=JFRFilho&theme=tokyonight&hide_border=true" width="60%"/>
 
 </div>
 
