@@ -1,48 +1,32 @@
-#  Olá, eu sou o João Ramos
+# João Ferreira
 
-<img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=35&center=true&vCenter=true&width=1000&lines=Python+Developer;Flask+Developer;Automation+Engineer;React+Developer" />
+Desenvolvedor focado em automação, sistemas internos e integrações utilizando Python, Flask e React.
 
----
+Atualmente desenvolvendo ferramentas voltadas para:
+- upload e gerenciamento de arquivos;
+- integração com APIs;
+- automação de processos;
+- aplicações web corporativas.
 
-## 🚀 Sobre mim
+## Projetos
 
-💻 Desenvolvedor focado em:
-- Automação de processos
-- Sistemas corporativos
-- Integração de APIs
-- Desenvolvimento Web
+### CartLink
+Sistema para compartilhamento automatizado de arquivos no Google Drive com geração de links públicos.
 
-🛠️ Tecnologias:
-- Python
-- Flask
-- React
-- JavaScript
-- Docker
-- Google APIs
+### Compressao
+Ferramenta web para compressão de arquivos.
 
----
+### Portfolio
+Portfólio pessoal desenvolvido em React + Vite.
 
-## 📌 Projetos em destaque
+## Tecnologias
 
-### 🔗 CartLink
-Sistema corporativo para upload automatizado no Google Drive com geração de links públicos.
+Python • Flask • React • JavaScript • Docker • APIs REST
 
-### 📦 Compressao
-Ferramenta para compressão de arquivos utilizando Python.
+## Contato
 
-### 💼 Portfolio
-Portfólio moderno desenvolvido em React + Vite.
+LinkedIn:
+https://www.linkedin.com/in/jo%C3%A3o-ramos-075439243/
 
----
-
-## 📊 Estatísticas
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JFRFilho&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JFRFilho&layout=compact&theme=tokyonight)
-
----
-
-## 🌐 Contato
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](SEU_LINKEDIN)
+Portfolio:
+https://portfolio-zeta-hazel.vercel.app
