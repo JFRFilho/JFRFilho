@@ -46,14 +46,8 @@ joao = {
 | 💼 **[Portfolio](https://portfolio-zeta-hazel.vercel.app)** | Portfólio pessoal moderno com animações e design responsivo | React · Vite |
 
 ---
-
-## 📊 Estatísticas
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=JFRFilho&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-  
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JFRFilho&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+## 📊 Estatísticas <div align="center"> 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JFRFilho&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JFRFilho&layout=compact&theme=tokyonight&hide_border=true) ![GitHub Streak](https://streak-stats.demolab.com/?user=JFRFilho&theme=tokyonight&hide_border=true) </div>
 ---
 
 ## 🌐 Contato
