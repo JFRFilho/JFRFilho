@@ -51,11 +51,11 @@ joao = {
 
 <div align="center">
 
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=JFRFilho&show_icons=true&theme=tokyonight&hide_border=true" width="49%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JFRFilho&theme=tokyonight" width="100%"/>
 
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=JFRFilho&layout=compact&theme=tokyonight&hide_border=true" width="49%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JFRFilho&theme=tokyonight" width="49%"/>
 
-<img src="https://streak-stats.demolab.com/?user=JFRFilho&theme=tokyonight&hide_border=true" width="60%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=JFRFilho&theme=tokyonight" width="49%"/>
 
 </div>
 ---
