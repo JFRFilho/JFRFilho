@@ -64,7 +64,7 @@ joao = {
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-ramos-075439243/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/jo%C3%A3o-ramos-075439243/](https://www.linkedin.com/in/jo%C3%A3o-ramos-075439243/))
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://portefolio-nn2w24e9c-jfrfilhos-projects.vercel.app/)
 
 </div>
