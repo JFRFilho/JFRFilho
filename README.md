@@ -1,6 +1,3 @@
-Vamos usar **banner em degradê, texto animado e cards de atividade**, com uma paleta azul e roxa. Cole este conteúdo no seu `README.md`:
-
-```markdown
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:6366F1,100:22D3EE&height=220&section=header&text=Jo%C3%A3o%20Ferreira&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=Desenvolvimento%20Web%20%7C%20Automa%C3%A7%C3%A3o%20%7C%20APIs&descSize=17&descAlignY=58&animation=fadeIn" alt="João Ferreira — Desenvolvimento Web, Automação e APIs" />
@@ -116,6 +113,3 @@ Confira meus projetos ou entre em contato pelo LinkedIn.
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:6366F1,100:22D3EE&height=120&section=footer" alt="" />
-```
-
-O banner e o texto têm animação; os cards exibem suas estatísticas. Esses elementos dependem de serviços externos para carregar.
