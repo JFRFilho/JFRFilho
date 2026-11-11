@@ -1,82 +1,141 @@
-<div align="center">
+<img src="./assets/header.svg" width="100%" alt="João Ferreira — automação, sistemas web e integração de APIs" />
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:BD93F9,50:FF79C6,100:8BE9FD&height=240&section=header&text=Jo%C3%A3o%20Ferreira&fontSize=64&fontColor=FFFFFF&fontAlignY=38&desc=Eu%20automatizo%20o%20trabalho%20chato.&descSize=20&descAlignY=60&animation=twinkling" alt="João Ferreira — Eu automatizo o trabalho chato." />
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2800&pause=1000&color=FF79C6&center=true&vCenter=true&width=760&height=60&lines=%24+python+automatizar.py+%F0%9F%90%8D;%3E+processo+manual+removido+%E2%9C%85;%3E+APIs+conectadas+%F0%9F%94%97;%3E+equipe+com+tempo+livre+%E2%9A%A1" alt="Terminal: processo manual removido, APIs conectadas, equipe com tempo livre" />
-
-<br />
-
-<a href="https://www.linkedin.com/in/jo%C3%A3o-ramos-075439243/">
-  <img src="https://img.shields.io/badge/LinkedIn-BD93F9?style=for-the-badge&logo=linkedin&logoColor=282A36" alt="LinkedIn" />
-</a>
-<a href="https://portfolio-zeta-hazel.vercel.app/">
-  <img src="https://img.shields.io/badge/Portf%C3%B3lio-FF79C6?style=for-the-badge&logo=vercel&logoColor=282A36" alt="Portfólio" />
-</a>
-<a href="https://github.com/JFRFilho?tab=repositories">
-  <img src="https://img.shields.io/badge/Reposit%C3%B3rios-8BE9FD?style=for-the-badge&logo=github&logoColor=282A36" alt="Repositórios" />
-</a>
-
-</div>
+<p align="center">
+  <a href="https://www.linkedin.com/in/jo%C3%A3o-ramos-075439243/"><kbd>&nbsp;&nbsp;LinkedIn ↗&nbsp;&nbsp;</kbd></a>
+  &nbsp;
+  <a href="https://portfolio-zeta-hazel.vercel.app/"><kbd>&nbsp;&nbsp;Portfólio ↗&nbsp;&nbsp;</kbd></a>
+  &nbsp;
+  <a href="https://github.com/JFRFilho?tab=repositories"><kbd>&nbsp;&nbsp;Repositórios ↗&nbsp;&nbsp;</kbd></a>
+</p>
 
 <br />
+
+## <code>01</code>&nbsp; Sobre
 
 <table>
   <tr>
-    <td width="58%" valign="top">
-      <h2>⚡ Quem sou</h2>
-      <p>Desenvolvedor em <b>Manaus, AM 🇧🇷</b>, focado em <b>automação de processos</b>, <b>sistemas corporativos</b> e <b>integração de APIs</b>.</p>
-      <p>Pego aquela tarefa que alguém repete todo dia na mão e transformo em um sistema que faz sozinho.</p>
-      <p><b>Python + Flask</b> no back-end · <b>React</b> no front-end · <b>Google Workspace</b> conectado a tudo.</p>
+    <td width="60%" valign="top">
+      <br />
+      <p>Sou desenvolvedor em <b>Manaus, AM</b>, e trabalho com <b>automação de processos</b>, <b>sistemas corporativos</b> e <b>integração de APIs</b>.</p>
+      <p>Pego a tarefa que alguém repete todo dia na mão e transformo em um sistema que faz sozinho.</p>
+      <br />
     </td>
-    <td width="42%" valign="top">
-      <h2>🎯 O que entrego</h2>
-      <p>⚙️ &nbsp;<b>Automação</b> de rotinas operacionais</p>
-      <p>🌐 &nbsp;<b>Sistemas web</b> sob medida</p>
-      <p>🔗 &nbsp;<b>Integrações</b> entre APIs e ferramentas</p>
-      <p>🎨 &nbsp;<b>Interfaces</b> responsivas e claras</p>
+    <td width="40%" valign="top">
+      <br />
+      <p><code>back-end&nbsp;</code>&nbsp; Python · Flask</p>
+      <p><code>front-end</code>&nbsp; React · Vite · JavaScript</p>
+      <p><code>integra&nbsp;&nbsp;</code>&nbsp; Google Workspace · REST</p>
+      <p><code>local&nbsp;&nbsp;&nbsp;&nbsp;</code>&nbsp; Manaus, Amazonas 🇧🇷</p>
     </td>
   </tr>
 </table>
 
 <br />
 
-<div align="center">
-
-## 🚀 Projetos
-
-</div>
+## <code>02</code>&nbsp; Projetos
 
 <table>
   <tr>
-    <td colspan="2" align="center">
-      <h2>🔗 CartLink</h2>
-      <p><b>Compartilhamento no Google Drive, no automático.</b></p>
+    <td width="12%" align="center"><h1>01</h1></td>
+    <td width="66%">
+      <h3>CartLink</h3>
       <p>Sistema corporativo que automatiza o compartilhamento de arquivos no Google Drive e já devolve o link público pronto.</p>
-      <img src="https://img.shields.io/badge/Python-BD93F9?style=for-the-badge&logo=python&logoColor=282A36" alt="Python" />
-      <img src="https://img.shields.io/badge/Flask-FF79C6?style=for-the-badge&logo=flask&logoColor=282A36" alt="Flask" />
-      <img src="https://img.shields.io/badge/Google_Drive_API-8BE9FD?style=for-the-badge&logo=googledrive&logoColor=282A36" alt="Google Drive API" />
+      <kbd>Python</kbd> <kbd>Flask</kbd> <kbd>Google Drive API</kbd>
       <br /><br />
-      <a href="https://github.com/JFRFilho/CartLink"><b>Ver o código →</b></a>
-      <br /><br />
+    </td>
+    <td width="22%" align="center">
+      <a href="https://github.com/JFRFilho/CartLink"><kbd>&nbsp;Ver código ↗&nbsp;</kbd></a>
     </td>
   </tr>
   <tr>
-    <td width="50%" align="center" valign="top">
-      <h3>📦 Compressão</h3>
-      <p>Comprima arquivos direto no navegador, por uma interface simples.</p>
-      <img src="https://img.shields.io/badge/Python-BD93F9?style=flat-square&logo=python&logoColor=282A36" alt="Python" />
-      <img src="https://img.shields.io/badge/Flask-FF79C6?style=flat-square&logo=flask&logoColor=282A36" alt="Flask" />
-      <br /><br />
-      <a href="https://github.com/JFRFilho/Compressao"><b>Ver o código →</b></a>
+    <td align="center"><h1>02</h1></td>
+    <td>
+      <h3>Compressão</h3>
+      <p>Ferramenta web para comprimir arquivos direto no navegador, por uma interface simples.</p>
+      <kbd>Python</kbd> <kbd>Flask</kbd>
       <br /><br />
     </td>
-    <td width="50%" align="center" valign="top">
-      <h3>💻 Portfólio</h3>
+    <td align="center">
+      <a href="https://github.com/JFRFilho/Compressao"><kbd>&nbsp;Ver código ↗&nbsp;</kbd></a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><h1>03</h1></td>
+    <td>
+      <h3>Portfólio</h3>
       <p>Meu site pessoal, com animações e layout totalmente responsivo.</p>
-      <img src="https://img.shields.io/badge/React-8BE9FD?style=flat-square&logo=react&logoColor=282A36" alt="React" />
-      <img src="https://img.shields.io/badge/Vite-BD93F9?style=flat-square&logo=vite&logoColor=282A36" alt="Vite" />
+      <kbd>React</kbd> <kbd>Vite</kbd>
       <br /><br />
-      <a href="https://portfolio-zeta-hazel.vercel.app/"><b>Acessar o site →</b></a>
+    </td>
+    <td align="center">
+      <a href="https://portfolio-zeta-hazel.vercel.app/"><kbd>&nbsp;Acessar site ↗&nbsp;</kbd></a>
+    </td>
+  </tr>
+</table>
+
+<br />
+
+## <code>03</code>&nbsp; O que eu faço
+
+<table>
+  <tr>
+    <td width="25%" valign="top">
+      <h3>Automação</h3>
+      <sub>Rotinas e processos operacionais rodando sem trabalho manual.</sub>
+    </td>
+    <td width="25%" valign="top">
+      <h3>Sistemas web</h3>
+      <sub>Aplicações sob medida para a necessidade do negócio.</sub>
+    </td>
+    <td width="25%" valign="top">
+      <h3>Integrações</h3>
+      <sub>APIs, sistemas internos e Google Workspace conversando entre si.</sub>
+    </td>
+    <td width="25%" valign="top">
+      <h3>Interfaces</h3>
+      <sub>Telas responsivas, claras e fáceis de usar.</sub>
+    </td>
+  </tr>
+</table>
+
+<br />
+
+## <code>04</code>&nbsp; Stack
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,flask,react,js,vite,docker,git&theme=dark" alt="Python, Flask, React, JavaScript, Vite, Docker e Git" />
+  </a>
+</p>
+
+<p align="center">
+  <kbd>Google Workspace</kbd> <kbd>Google APIs</kbd> <kbd>REST APIs</kbd>
+</p>
+
+<br />
+
+## <code>05</code>&nbsp; Atividade
+
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=JFRFilho&bg_color=060F26&color=FFFFFF&line=3B82F6&point=FFFFFF&area=true&area_color=1E3A8A&hide_border=true" alt="Gráfico de contribuições no GitHub" />
+</p>
+
+<p align="center">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JFRFilho&theme=github_dark" alt="Linguagens por repositório" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JFRFilho&theme=github_dark" alt="Linguagens mais usadas em commits" />
+</p>
+
+<br />
+
+## <code>06</code>&nbsp; Contato
+
+<table>
+  <tr>
+    <td align="center">
+      <br />
+      <h3>Tem um processo manual te tomando tempo?</h3>
+      <p>Me conta qual é. Provavelmente dá para automatizar.</p>
+      <a href="https://www.linkedin.com/in/jo%C3%A3o-ramos-075439243/"><kbd>&nbsp;&nbsp;Falar comigo no LinkedIn ↗&nbsp;&nbsp;</kbd></a>
       <br /><br />
     </td>
   </tr>
@@ -84,43 +143,4 @@
 
 <br />
 
-<div align="center">
-
-## 🛠️ Stack
-
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=python,flask,react,js,vite,docker,git&theme=dark" alt="Python, Flask, React, JavaScript, Vite, Docker e Git" />
-</a>
-
-<br /><br />
-
-<img src="https://img.shields.io/badge/Google_Workspace-50FA7B?style=for-the-badge&logo=googleworkspace&logoColor=282A36" alt="Google Workspace" />
-<img src="https://img.shields.io/badge/Google_APIs-8BE9FD?style=for-the-badge&logo=google&logoColor=282A36" alt="Google APIs" />
-<img src="https://img.shields.io/badge/REST_APIs-FF79C6?style=for-the-badge&logo=postman&logoColor=282A36" alt="REST APIs" />
-
-<br /><br />
-
-## 📈 Atividade
-
-<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=JFRFilho&theme=dracula&hide_border=true&area=true" alt="Gráfico de contribuições no GitHub" />
-
-<br /><br />
-
-<img width="47%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JFRFilho&theme=dracula" alt="Linguagens por repositório" />
-<img width="47%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JFRFilho&theme=dracula" alt="Linguagens mais usadas em commits" />
-
-<br /><br />
-
-## 💬 Tem um processo manual te tomando tempo?
-
-**Me conta qual é. Provavelmente dá para automatizar.**
-
-<br />
-
-<a href="https://www.linkedin.com/in/jo%C3%A3o-ramos-075439243/">
-  <img src="https://img.shields.io/badge/Falar_comigo_no_LinkedIn_%E2%86%92-FF79C6?style=for-the-badge&logo=linkedin&logoColor=282A36" alt="Falar comigo no LinkedIn" />
-</a>
-
-</div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8BE9FD,50:FF79C6,100:BD93F9&height=130&section=footer" alt="" />
+<img src="./assets/footer.svg" width="100%" alt="Obrigado pela visita" />
